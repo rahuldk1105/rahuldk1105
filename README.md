@@ -21,10 +21,3 @@ Currently, I’m focused on sharpening my system design skills, writing better c
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rahuldk1105" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/dkrahul/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rahuldk1105"><img src="https://github-readme-stats.vercel.app/api?username=rahuldk1105&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=f97316&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="rahuldk1105's GitHub stats" /></a>
-
-<a href="https://github.com/rahuldk1105" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldk1105&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

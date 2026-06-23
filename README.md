@@ -11,7 +11,7 @@ My experience spans across frontend and backend development, API design, authent
 Currently, I’m focused on sharpening my system design skills, writing better code every day, and building real-world products that solve meaningful problems.
 
 * 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [rahuldk.my](http://www.rahuldk.my)
+* 🖥️  See my portfolio at [rahuldk.my](http://www.rahuldk.in)
 * ✉️  You can contact me at [rahuldk@trackmyacademy.com](mailto:rahuldk@trackmyacademy.com)
 * 🚀  I'm currently working on [Track My Academy](http://www.trackmyacademy.com)
 * 🧠  I'm currently learning System design, scalable backend architectures, and cloud-native deployment

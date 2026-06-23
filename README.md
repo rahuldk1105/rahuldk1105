@@ -12,7 +12,7 @@ Currently, I’m focused on sharpening my system design skills, writing better c
 
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [rahuldk.in](http://www.rahuldk.in)
-* ✉️  You can contact me at [rahuldk@trackmyacademy.com](mailto:rahuldk@trackmyacademy.com)
+* ✉️  You can contact me at [rahuldk@trackmytech.in](mailto:rahuldk@trackmytech.in)
 * 🚀  I'm currently working on [Track My Academy](http://www.trackmyacademy.com)
 * 🧠  I'm currently learning System design, scalable backend architectures, and cloud-native deployment
 * 👥  I'm looking to collaborate on Product-focused startups, MVP builds, and system-heavy applications
